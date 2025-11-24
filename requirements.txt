@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+sentence-transformers
+faiss-cpu
+python-multipart
+requests
+pydantic
+jinja2
+pdfminer.six
