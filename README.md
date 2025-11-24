@@ -24,4 +24,14 @@ AI-агент для автоматического анализа тендер�
 - Подбор поставщиков (embeddings + similarity search)
 - Генерация отчёта (JSON/HTML/PDF)
 
-🧱 Архитектура MVP
+🔗 Источники данных
+- Госзакупки РК
+- Kaggle / OpenContracting
+- Синтетические PDF
+
+⚙️ Технологии
+- Python, FastAPI, pandas
+- Sentence Transformers, FAISS
+- LLaMA3/Mistral (LM Studio/Ollama)
+- n8n workflow orchestrator
+- Streamlit / HTML
